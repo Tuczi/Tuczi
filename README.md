@@ -15,6 +15,11 @@ I’m software engineer with a passion. Interested in computer networks and high
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu - Missing Realtek Network Driver](https://kuczma.dev/articles/missing-network-driver/)
+- [Why Rust](https://kuczma.dev/articles/why-rust/)
+- [11 psychological traps in software engineering](https://kuczma.dev/articles/psychological-traps/)
+- [How the type error cost NASA $ 327 million](https://kuczma.dev/articles/type-error-worth-millions/)
+- [System Design Interview 2: News feed like Twitter](https://kuczma.dev/articles/scale/system-design-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
