@@ -12,6 +12,8 @@ I’m software engineer with a passion. Interested in computer networks and high
 
 [![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://kuczma.dev/index.xml)
 
+### Latest posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
